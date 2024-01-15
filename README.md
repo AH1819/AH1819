@@ -28,8 +28,14 @@ Mi objetivo profesional es convertirme en un ingeniero de software experimentado
 </div>
 # Proyectos destacados
 
-* **Gestion de servicios publicos de agua potable:** Creé junto a mis compañeros de clase un sistema para la gestion de pagos de un servicio de agua potable usando postgresql como base de datos y Java como lenguaje de programacion mientras cursaba el 5to semestre.
-* **Control de asistencia por reconocimiento facial:** Creé un control de asistencia por reconocimiento facial que hace inserciones en una base de datos como lo es postgresql y usando como lenguaje de programacion Python junto con la biblioteca de face recognition y open-cv mientras cursaba el 8vo semestre.
+* **Gestion de servicios publicos de agua potable:**
+    * Desarrollamos un sistema para la gestión de pagos de un servicio de agua potable.
+    * El sistema utiliza PostgreSQL como base de datos y Java como lenguaje de programación.
+    * El sistema permite a los usuarios realizar pagos de clientes con contrato, consultar su saldo y ver su historial de pagos.
+* **Control de asistencia por reconocimiento facial:**
+    * Creé un control de asistencia por reconocimiento facial que hace inserciones en una base de datos PostgreSQL.
+    * El control de asistencia utiliza Python junto con la biblioteca de face recognition y open-cv.
+    * El control de asistencia es capaz de identificar a los usuarios con una precisión del 85% en un ambiente controlado.
 
 # Contacto
 
